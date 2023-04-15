@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    background-color: aliceblue;
+    font-family: 'DynaPuff', cursive;
+}
+.page-nav{
+    border: 1px solid black;
+    background-color: #7ac7c2;
+    position: relative;
+}
+
+.page-nav h1{
+    margin: 20px;
+}
+.page-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:baseline;
+    border: 1px solid red;
+}
+
+.btn-lg{
+   position:absolute ;
+    right: 15px;
+    bottom: 10px;
+    
+}
+
+.product-container{
+    margin: 15px;
+    padding: 2px 16px;
+}
+
+.product-container:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.product-container img{
+    width: 250px;
+    height: 250px;
+}
