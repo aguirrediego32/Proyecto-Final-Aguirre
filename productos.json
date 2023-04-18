@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Samsung Galaxy Z Flip",
+        "precio": 270000,
+        "imagen": "images/celular.jpg",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "nombre": "TV TCL 43 Pulgadas",
+        "precio": 90000,
+        "imagen": "images/tv.jpg",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "nombre": "Notebook Lenovo V15",
+        "precio": 200000,
+        "imagen": "images/notebook.jpg",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "nombre": "LG Xboom",
+        "precio": 180000,
+        "imagen": "images/audio.jpg",
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "nombre": "Playstation 5",
+        "precio": 320000,
+        "imagen": "images/playstation.jpg",
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "nombre": "Tablet Lenovo",
+        "precio": 70000,
+        "imagen": "images/tablet.jpg",
+        "stock": 20
+    },
+    {
+        "id": 7,
+        "nombre": "Monitor Samsung Qled",
+        "precio": 250000,
+        "imagen": "images/monitor.jpg",
+        "stock": 20
+    },
+    {
+        "id": 8,
+        "nombre": "Camara Canon T7",
+        "precio": 280000,
+        "imagen": "images/camara.jpg",
+        "stock": 20
+    }
+]
