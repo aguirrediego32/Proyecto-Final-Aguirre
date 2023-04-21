@@ -11,7 +11,7 @@ function mostrarProductos(listaProductos) {
         column.innerHTML = `<div class ="product-container">
         <h3>${producto.nombre}<h3>
         <img src="${producto.imagen}"/>
-        <h3>${producto.precio}<h3>
+        <h3>$${producto.precio}<h3>
         <button type="button" class="btn btn-outline-primary" id="${producto.id}">Agregar</button>
         </div>
         `
